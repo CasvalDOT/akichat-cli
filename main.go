@@ -21,7 +21,7 @@ THE SOFTWARE.
 */
 package main
 
-import "github.com/akichat/cli/cmd"
+import "github.com/CasvalDOT/akichat-cli/cmd"
 
 func main() {
 	cmd.Execute()

@@ -25,8 +25,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/akichat/cli/presenters"
-	"github.com/akichat/core"
+	"github.com/CasvalDOT/akichat-cli/presenters"
+	core "github.com/CasvalDOT/akichat-core"
 	"github.com/spf13/cobra"
 )
 

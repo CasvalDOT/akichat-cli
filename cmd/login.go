@@ -22,7 +22,7 @@ THE SOFTWARE.
 package cmd
 
 import (
-	"github.com/akichat/core"
+	core "github.com/CasvalDOT/akichat-core"
 
 	"github.com/spf13/cobra"
 )

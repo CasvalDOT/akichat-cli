@@ -3,7 +3,7 @@ package presenters
 import (
 	"fmt"
 
-	"github.com/akichat/core"
+	core "github.com/CasvalDOT/akichat-core"
 )
 
 type messagesPresenter struct {
